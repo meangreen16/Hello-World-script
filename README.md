@@ -1,2 +1,6 @@
 # Hello-World-script
-HW new to the world
+# This script runs a simple python project which returns the "Hello World"
+
+
+print ("hello world")
+
